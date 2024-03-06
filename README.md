@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Margery from London with a passion for Health Tech. Here's a bit about me:<br><br>* 🔬 I’m working as Account Manager for a Medical Company <br><br>* 📚 I'm currently learning and diving deep into Python, exploring its vast ecosystem of libraries and applications<br><br>* 📫 Let's connect! Feel free to reach out. I'm always open to new opportunities and exciting challenges</p>
+<p align="left">Here's a bit about me:<br><br>* ⌨️ I have a strong passion for Health Tech <br><br>* 🏥 I’m working as Account Manager for a Medical Company <br><br>* 📚 I'm currently learning and diving deep into Python, exploring its vast ecosystem of libraries and applications<br><br>* 📫 Let's connect! Feel free to reach out. I'm always open to new opportunities and exciting challenges</p>
 
 ###
 
